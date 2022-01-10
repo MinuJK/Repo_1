@@ -9,4 +9,5 @@ for row in csvreader:
     total +=int(row[0])
     rows.append(row)
 print(rows)
+print(total)
 file.close()
