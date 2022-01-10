@@ -10,4 +10,5 @@ for row in csvreader:
     rows.append(row)
 print(rows)
 print(total)
+#comment added for testing
 file.close()
